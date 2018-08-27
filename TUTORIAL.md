@@ -69,11 +69,11 @@ clone到本地：
 3. git pull
 4. git push origin branch_name
 
+![](./image/commit.png)
 
+## 特别说明：
 
-
-
-
+请大家尽量不要修改个人目录以外的内容，否则容易造成merge时候的冲突。
 
 
 	
