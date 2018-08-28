@@ -29,6 +29,8 @@ clone到本地：
 
 ![](./image/Kag_Stone_gate_clone.png)
 
+然后 cd kag_stone_gate 进入该工程目录
+
 ### 第二步：
 
 创建自己的分支和切换到自己的分支下工作：
